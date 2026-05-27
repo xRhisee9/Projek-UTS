@@ -1,4 +1,4 @@
-# PROJEK UTS
+# WEB LIBRARY GAME
 ### TENTANG MEMBUAT WEB LIBRARY GAME SEDERHANA MENGGUNAKAN TAILWINDS(RIPPLE UI) DAN BOOTSRAP
 
 ### Maaf jika ada salah dalam repository nya yang linknya mengarah ke readme.md
